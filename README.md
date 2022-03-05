@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyrusSoft1 Amin
-- 👀 I’m interested in developing
+<!-- - 👀 I’m interested in developing
 - 🌱 I’m currently learning .NET Core 😋
-- 📫 How to reach me Cyrussoft.ir
+- 📫 How to reach me Cyrussoft.ir -->
 
 <!---
 CyrusSoft1/CyrusSoft1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
