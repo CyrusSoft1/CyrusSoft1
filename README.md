@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyrusSoft1 Amin
 - Full-stack web developer
-- Advanced in php/laravel and asp .net core
+- php/laravel and asp .net core (Advanced)
 <!-- - 🌱 I’m currently learning .NET Core 😋 -->
 - 📫 How to reach me Cyrussoft.ir
 
